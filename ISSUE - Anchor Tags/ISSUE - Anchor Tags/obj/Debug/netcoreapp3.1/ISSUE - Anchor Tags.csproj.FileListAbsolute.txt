@@ -1,0 +1,49 @@
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\ISSUE - Anchor Tags.exe
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\ISSUE - Anchor Tags.deps.json
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\ISSUE - Anchor Tags.runtimeconfig.json
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\ISSUE - Anchor Tags.runtimeconfig.dev.json
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\ISSUE - Anchor Tags.dll
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\ISSUE - Anchor Tags.pdb
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\ISSUE - Anchor Tags.Views.dll
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\bin\Debug\netcoreapp3.1\ISSUE - Anchor Tags.Views.pdb
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.csprojAssemblyReference.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\staticwebassets\ISSUE - Anchor Tags.StaticWebAssets.Manifest.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\staticwebassets\ISSUE - Anchor Tags.StaticWebAssets.xml
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.RazorComponent.input.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AnchorTagExample.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\RazorDeclaration\ISSUE - Anchor Tags.dll
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.TagHelpers.input.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.TagHelpers.output.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.RazorCoreGenerate.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\Pages\AnchorTagExample.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\Pages\Error.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.RazorAssemblyInfo.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.RazorAssemblyInfo.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.AssemblyInfoInputs.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.AssemblyInfo.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.RazorTargetAssemblyInfo.cache
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.RazorTargetAssemblyInfo.cs
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.Views.pdb
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.dll
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.pdb
+C:\Users\kgates\source\repos\ISSUE - Anchor Tags\ISSUE - Anchor Tags\obj\Debug\netcoreapp3.1\ISSUE - Anchor Tags.csproj.CopyComplete
